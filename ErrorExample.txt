@@ -1,0 +1,16 @@
+START
+begin
+_a := True;
+_b := 34446;
+_mass := [344, 78, 100, 54, 655];
+input Bool _d;
+input String _e;
+_f := 34 + 56.7;
+while _i := 34 < 55 do
+begin
+_g := "abs" * 47.2;
+_i := _i + 1;
+end
+stop
+end
+END
